@@ -23,5 +23,8 @@
         "tailwindcss": "^3.2.1",
         "vue": "^3.2.41",
         "vue-loader": "^16.8.3"
+    },
+    "dependencies": {
+        "laravel-vue-i18n": "^2.3.2"
     }
 }
